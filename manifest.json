@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "X Advanced Finder",
+  "version": "1.0",
+  "description": "X（旧Twitter）の検索をより便利にする拡張機能です。詳細なフィルターで、欲しい情報を素早く見つけられます。",
+  "permissions": [],
+  "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+  }
+}

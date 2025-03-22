@@ -1,0 +1,24 @@
+body {
+    overflow: hidden;
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+
+.container {
+    overflow-y: auto;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.language-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.search-container {
+    text-align: right;
+    margin-top: 5px;
+}
