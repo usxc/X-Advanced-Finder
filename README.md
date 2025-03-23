@@ -15,7 +15,7 @@
 
 ## インストール方法
 ### **Chrome ウェブストアからインストール**
-> **審査通過後にリンクをここに追加**
+> **https://chromewebstore.google.com/detail/enldemfkbaemcpghkkcgaomdlneiglpb?utm_source=item-share-cb**
 
 ### **手動インストール（開発者向け）**
 1. このリポジトリをクローン  
